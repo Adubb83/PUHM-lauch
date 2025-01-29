@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
 
     /* Background Image */
-    background: white url('./Images/gray_tile.png') repeat; /* Relative path to tile.png */
+    background: white url('https://github.com/Adubb83/PUHM-lauch/blob/main/gray_tile.png') repeat; /* Relative path to tile.png */
     
     /* Blend Mode and Styling */
     background-blend-mode: overlay; /* Optional: adds a subtle overlay effect */
